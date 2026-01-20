@@ -1,0 +1,7 @@
+{
+  "name": "My P.O.S Management System",
+  "description": "A production-ready AI-powered Point of Sale system featuring inventory tracking, real-time sales reporting, and business insights powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
